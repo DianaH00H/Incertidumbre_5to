@@ -9,3 +9,5 @@ Al final del curso, estarás preparadx para abordar problemas complejos en los q
 
 
 configurando entorno de trabajo: https://drive.google.com/file/d/1XONiMMoA0gaPnAF782o0O4d6TzY8fwP0/view?usp=sharing
+
+teoria en html: https://drive.google.com/drive/folders/18mwE1Hq5ZGsMXWBiSyPGEyUpjsg6bBej?usp=drive_link
