@@ -6,3 +6,6 @@ A lo largo del curso, exploraremos las redes bayesianas y los modelos bayesianos
 El desarrollo de competencias se realizará a través de múltiples situaciones problema, permitiéndote enfrentar desafíos reales y aplicar los conocimientos adquiridos en escenarios prácticos. Cada situación problema estará diseñada para reforzar la comprensión teórica y fomentar el pensamiento crítico y analítico.
 
 Al final del curso, estarás preparadx para abordar problemas complejos en los que la incertidumbre juega un papel crucial, utilizando modelos estadísticos avanzados y técnicas bayesianas para proporcionar soluciones informadas y basadas en datos.
+
+
+configurando entorno de trabajo: https://drive.google.com/file/d/1XONiMMoA0gaPnAF782o0O4d6TzY8fwP0/view?usp=sharing
